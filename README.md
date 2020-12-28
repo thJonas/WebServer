@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # A C++ High Performance Web Server
 
 [![Build Status](https://travis-ci.org/linyacool/WebServer.svg?branch=master)](https://travis-ci.org/linyacool/WebServer)
@@ -51,3 +52,6 @@
 ## Others
 除了项目基本的代码，进服务器进行压测时，对开源测试工具Webbench增加了Keep-Alive选项和测试功能: 改写后的[Webbench](https://github.com/linyacool/WebBench)
 
+=======
+# webServer
+>>>>>>> cd008e036aa6d92b7b4549ee1ab273815fa96765
